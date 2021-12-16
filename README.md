@@ -1,17 +1,6 @@
-name: Update README
+Hey 👋🏻,
 
-on:
-  schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+I am Software Engineer from India
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay-Kumar-HT
+)](https://github.com/anuraghazra/github-readme-stats)
