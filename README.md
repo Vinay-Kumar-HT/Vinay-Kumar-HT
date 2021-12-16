@@ -27,8 +27,6 @@ My name is Vinay Kumar HT and I'm a software developer. I'm from India, living i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinay-Kumar-HT&repo=To-Do-List&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-To-Do-List
 <!-- links to your social media accounts -->
 
 
